@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="test:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="addae66d-5f61-46f3-b21a-8b9959e208d5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1Tmyikf2pUHxDPbF3lXM7BOWaxo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\web" />
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\web\images" />
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\src\hikmat\util" />
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\src\hikmat\model" />
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\src\hikmat\dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="hikmat.util" />
+      <recent name="hikmat.dao" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\web" />
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\web\WEB-INF\pages" />
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\web\views\edit" />
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\web\views\add" />
+      <recent name="C:\Users\ASGARLI\IdeaProjects\test\web\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hikmat.main" />
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hikmat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/web/js/main.js" working-dir="$PROJECT_DIR$/web/js">
+      <method v="2" />
+    </configuration>
+    <configuration name="Tomcat 8.5.47" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.47" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="test:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/test" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_47_test" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="50403" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="test:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.main" />
+      <item itemvalue="Node.js.main.js" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.47" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="addae66d-5f61-46f3-b21a-8b9959e208d5" name="Default Changelist" comment="" />
+      <created>1574079694194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574079694194</updated>
+      <workItem from="1574079698784" duration="11759000" />
+      <workItem from="1574147152610" duration="12078000" />
+      <workItem from="1574223916703" duration="26152000" />
+      <workItem from="1574256313134" duration="6657000" />
+      <workItem from="1574275483285" duration="141000" />
+      <workItem from="1574313489706" duration="18046000" />
+      <workItem from="1574333863185" duration="10977000" />
+      <workItem from="1574408565700" duration="16991000" />
+      <workItem from="1574436116614" duration="5185000" />
+      <workItem from="1574497585876" duration="14841000" />
+      <workItem from="1574667525525" duration="16138000" />
+      <workItem from="1574750064208" duration="15962000" />
+      <workItem from="1574773380030" duration="5495000" />
+      <workItem from="1574837905617" duration="13123000" />
+      <workItem from="1574925879533" duration="5510000" />
+      <workItem from="1574932009390" duration="5300000" />
+      <workItem from="1574937919382" duration="7701000" />
+      <workItem from="1574949906240" duration="783000" />
+      <workItem from="1575007828535" duration="23391000" />
+      <workItem from="1575039192927" duration="5225000" />
+      <workItem from="1575099532316" duration="423000" />
+      <workItem from="1575103047241" duration="9702000" />
+      <workItem from="1575130063099" duration="1304000" />
+      <workItem from="1575192905057" duration="1247000" />
+      <workItem from="1575460043546" duration="1017000" />
+      <workItem from="1575476241287" duration="834000" />
+      <workItem from="1575544501588" duration="8272000" />
+      <workItem from="1575624759053" duration="567000" />
+      <workItem from="1575626394546" duration="10513000" />
+      <workItem from="1575645607862" duration="3663000" />
+      <workItem from="1575662955618" duration="110000" />
+      <workItem from="1575669417963" duration="4791000" />
+      <workItem from="1575707863668" duration="1428000" />
+      <workItem from="1575717082531" duration="693000" />
+      <workItem from="1575729007167" duration="89000" />
+      <workItem from="1575794364621" duration="12991000" />
+      <workItem from="1575825504224" duration="417000" />
+      <workItem from="1575828767543" duration="636000" />
+      <workItem from="1575882576497" duration="4135000" />
+      <workItem from="1575980464086" duration="1562000" />
+      <workItem from="1575993623528" duration="172000" />
+      <workItem from="1576007437298" duration="174000" />
+      <workItem from="1576250624124" duration="228000" />
+      <workItem from="1576250972042" duration="3057000" />
+      <workItem from="1576318632948" duration="6954000" />
+      <workItem from="1576351981167" duration="3658000" />
+      <workItem from="1576520913957" duration="599000" />
+      <workItem from="1576571743612" duration="38000" />
+      <workItem from="1576686595089" duration="2988000" />
+      <workItem from="1576698212055" duration="2219000" />
+      <workItem from="1576751256384" duration="6005000" />
+      <workItem from="1576837933075" duration="1413000" />
+      <workItem from="1576854810270" duration="1894000" />
+      <workItem from="1576936657460" duration="296000" />
+      <workItem from="1577095236117" duration="85000" />
+      <workItem from="1577099759228" duration="3084000" />
+      <workItem from="1577182383597" duration="2373000" />
+      <workItem from="1577207564881" duration="2867000" />
+      <workItem from="1577261990316" duration="654000" />
+      <workItem from="1577370416693" duration="1235000" />
+      <workItem from="1577437564998" duration="599000" />
+      <workItem from="1577460047028" duration="2703000" />
+      <workItem from="1577529372127" duration="641000" />
+      <workItem from="1577539565713" duration="13000" />
+      <workItem from="1577782902092" duration="638000" />
+      <workItem from="1579104675237" duration="1878000" />
+      <workItem from="1579172536680" duration="1693000" />
+      <workItem from="1579245616176" duration="620000" />
+      <workItem from="1579763869006" duration="19031000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
